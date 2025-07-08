@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@noble/ed25519": "^2.3.0"
+  }
+}
